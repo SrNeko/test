@@ -1,1 +1,1 @@
-goodsongs = ["Time traveler - Asian KungFu Generation"]
+goodsongs = ["Time traveler - Asian KungFu Generation","Feitan"]
